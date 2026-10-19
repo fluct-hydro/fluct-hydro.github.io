@@ -39,7 +39,7 @@ body {
 
 a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 
-.wrap { max-width: 1040px; margin: 0 auto; padding: 0 1.25rem; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
 
 h1, h2, h3 { font-family: var(--serif); font-weight: 600; line-height: 1.2; }
 h2 { font-size: 2rem; margin: 0 0 1.25rem; }
